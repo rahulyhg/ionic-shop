@@ -16,7 +16,7 @@
   function revealAnimations () {
     sr.reveal('.feature-extended .device-mockup', {
       duration: 600,
-      distance: '100px',
+      distance: '300px',
       easing: 'cubic-bezier(0.215, 0.61, 0.355, 1)',
       origin: 'bottom',
       viewFactor: 0.6
